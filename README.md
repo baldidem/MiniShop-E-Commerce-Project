@@ -6,7 +6,8 @@ Bus Ticket Reservation System
 - Developing an interface where admins and
 authorized users can add, edit, delete and list
 products and categories.
-##Technologies:  .NET , Asp.NetCore(MVC), C#, Generic Repository Design Pattern , Code First, HTML, CSS, JavaScript , Sqlite, Entity Framework Core, Bootstrap
+
+## Technologies:  .NET , Asp.NetCore(MVC), C#, Generic Repository Design Pattern , Code First, HTML, CSS, JavaScript , Sqlite, Entity Framework Core, Bootstrap
 
 - Admin: didem@gmail.com
 - Password: Qwe123.
